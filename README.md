@@ -4,18 +4,18 @@
 
 
 
-## Problem Statement
-Businesses often struggle to track sales performance across products, regions, and time periods.  
-Without clear visibility into sales trends, top-performing products, and profit margins, it becomes difficult to make informed decisions for growth and strategy.  
+## 📌 Problem Statement
+**Businesses often struggle to track sales performance across products, regions, and time periods.  
+Without clear visibility into sales trends, top-performing products, and profit margins, it becomes difficult to make informed decisions for growth and strategy.**
 
-The Store Sales Analysis Dashboard solves this problem by bringing all sales data into one interactive Excel dashboard, offering clarity and actionable insights. 
+**The Store Sales Analysis Dashboard solves this problem by bringing all sales data into one interactive Excel dashboard, offering clarity and actionable insights**
 
-## Dataset
+## 👉 Dataset
 The dataset used in this project  
-`Store Sales Analysis.xlsx`  
+[Click to View Dashboard]( ) 
  
 
-## Key KPIs
+## 📌 Key KPIs
 - Total Sales  
 - Total Profit  
 - Sales by Region  
@@ -25,23 +25,25 @@ The dataset used in this project
 - Profit Margin %  
 
 
-## Features
+## 📌 Features
 - Interactive Excel dashboard with slicers and charts  
 - Quick view of sales and profit across multiple categories  
 - Region-wise and product-wise analysis  
 - Helps identify trends, top products, and weak areas  
 - Supports data-driven sales planning and decision-making
   
-##Dashboard link  
-https://github.com/harshgholap05/Store-Sales-Analysis_Excel/blob/main/Store%20Sales%20Dashboard/Store%20Sales%20Analysis.xlsx
+## 👉 Dashboard link  
+[Click to View Dashboard](https://github.com/harshgholap05/Store-Sales-Analysis_Excel/blob/main/Store%20Sales%20Dashboard/Store%20Sales%20Analysis.xlsx)
 
 
-## Dashboard Preview
-Below is a snapshot of the Excel dashboard:  
 
-![Store Sales Dashboard](images/dashboard.png)  
+## 👉 Dashboard Preview
+Below is a snapshot of the Excel dashboard  
 
-## Tools Used
+<img width="1362" height="698" alt="Store Sale Dashboard" src="https://github.com/user-attachments/assets/4f7d92e1-f04c-4e17-983d-eb6839acc223" />
+
+
+## 📌 Tools Used
 - **Microsoft Excel** – Dashboard creation and visualization  
 - **Pivot Tables & Pivot Charts** – For analysis  
 - **Excel Formulas** – For KPIs and calculations  
