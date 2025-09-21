@@ -46,5 +46,4 @@ Below is a snapshot of the Excel dashboard
 ## 📌 Tools Used
 - **Microsoft Excel** – Dashboard creation and visualization  
 - **Pivot Tables & Pivot Charts** – For analysis  
-- **Excel Formulas** – For KPIs and calculations  
-- **Conditional Formatting** – For insights highlighting  
+- **Excel Formulas** – For KPIs and calculations    
