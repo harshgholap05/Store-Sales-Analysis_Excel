@@ -1,1 +1,1 @@
-# Store-Sales-Analysis_Excel
+# Store Sales Analysis Dashboard (Excel)
