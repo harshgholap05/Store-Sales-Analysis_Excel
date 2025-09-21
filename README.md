@@ -12,7 +12,7 @@ Without clear visibility into sales trends, top-performing products, and profit 
 
 ## 👉 Dataset
 The dataset used in this project  
-[Click to View Dashboard]( ) 
+[Store Sales Data](https://github.com/harshgholap05/Store-Sales-Analysis_Excel/blob/main/Dataset%20File/Store%20Sales%20Data.xlsx) 
  
 
 ## 📌 Key KPIs
